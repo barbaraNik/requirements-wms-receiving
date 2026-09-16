@@ -10,7 +10,7 @@
 <img width="1198" height="638" alt="image" src="https://github.com/user-attachments/assets/ddf4228d-eefa-4b23-9b07-9b7f4ad1dddb" />
 
 
-### Прибытие машины
+### Приемка
 
 <img width="1700" height="565" alt="image" src="https://github.com/user-attachments/assets/b3085f42-9e8e-4ed9-81ce-877141c28d2e" />
 
